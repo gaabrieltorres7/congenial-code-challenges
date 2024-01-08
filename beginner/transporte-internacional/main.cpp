@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-  long widthContainer, lengthContainer, heightContainer, widthShip, lengthShip, maxHeightShip, totalContainer;
+  long widthContainer, lengthContainer, heightContainer, widthShip, lengthShip, maxHeightShip;
 
   cin >> widthContainer >> lengthContainer >> heightContainer >> widthShip >> lengthShip >> maxHeightShip;
   cout << (lengthShip / lengthContainer) * (widthShip / widthContainer) * (maxHeightShip / heightContainer) << endl;
