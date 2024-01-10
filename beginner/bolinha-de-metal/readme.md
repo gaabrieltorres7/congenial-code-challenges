@@ -4,6 +4,9 @@ Flíper é um tipo de jogo onde uma bolinha de metal cai por um labirinto de cam
 
 Cada portinha pode estar na posição 0, que significa virada para a esquerda, ou na posição 1 que quer dizer virada para a direita. Considere o flíper da figura abaixo, que tem duas portinhas. A portinha P está na posição 1 e a portinha R, na posição 0. Desse jeito, a bolinha vai cair pelo caminho B.
 
+![bolinhafliper](https://github.com/gaabrieltorres7/congenial-code-challenges/assets/98062444/11f74c89-10c4-449d-9be3-a59eff99e7df)
+
+
 Você deve escrever um programa que, dadas as posições das portinhas P e R, neste flíper da figura, diga por qual dos três caminhos, A, B ou C, a bolinha vai cair!
 
 ## Entrada
