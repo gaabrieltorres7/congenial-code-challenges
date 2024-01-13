@@ -2,6 +2,8 @@
 
 Para calcular a área de um trapézio qualquer, somamos os comprimentos da base maior com o da base menor, multiplicamos o resultado da soma pela altura do trapézio e dividimos o produto por dois. Então, para calcular a área desse polígono, usaremos a formula seguinte:
 
+<img width="300" alt="trapezio" src="https://github.com/gaabrieltorres7/congenial-code-challenges/assets/98062444/5df39662-b8d7-4472-bf73-0eb53f5c743d">
+<br>
 Para calcular a área de um trapézio qualquer, utilizamos a seguinte fórmula:
 
 ## A = ((B + b) \* h) / 2
