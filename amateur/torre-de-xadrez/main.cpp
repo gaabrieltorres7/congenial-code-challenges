@@ -17,37 +17,30 @@ int main()
 
   cin >> x >> y;
 
-  for (int i = x; i == x; i++)
+  for (int i = y - 1; i >= 0; i--)
   { // percorro da posição da torre p esquerda
-    for (int j = y - 1; j >= 0; j--)
+    if (board[x][i] == 1)
     {
-      if (board[i][j] == 1)
-      {
-        break;
-      }
-      else if (board[i][j] == 2)
-      {
-        acc++;
-        break;
-      }
+      break;
+    }
+    else if (board[x][i] == 2)
+    {
+      acc++;
+      break;
     }
   }
-  for (int i = x; i == x; i++)
+  for (int i = y + 1; i < 8; i++)
   { // percorro da posição da torre p direita
-    for (int j = y + 1; j < 8; j++)
+    if (board[x][i] == 1)
     {
-      if (board[i][j] == 1)
-      {
-        break;
-      }
-      else if (board[i][j] == 2)
-      {
-        acc++;
-        break;
-      }
+      break;
+    }
+    else if (board[x][i] == 2)
+    {
+      acc++;
+      break;
     }
   }
-
   for (int i = x - 1; i >= 0; i--)
   { // percorro da posição da torre p cima
     if (board[i][y] == 1)
