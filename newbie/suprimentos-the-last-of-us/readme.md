@@ -15,4 +15,4 @@ A saída será composta pela quantidade total de suprimentos encontrados por Joe
 | Entrada           | Saída |
 | ----------------- | ----- |
 | 5 10 10 10 10 10  | 50    |
-| 8 1 2 3 4 5 6 7 8 | 140   |
+| 8 1 2 3 4 5 6 7 8 | 36    |
