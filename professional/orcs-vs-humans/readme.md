@@ -1,5 +1,8 @@
 # Orcs vs Humans
 
+![orcsvshuman](https://github.com/gaabrieltorres7/congenial-code-challenges/assets/98062444/c9511415-8f17-45de-afcb-6515da28d912)
+
+
 Os Orcs viviam em Draenor, um mundo em ruínas. Mas quando Gul’dan e o Conselho da Sombra ofereceram aos chefes dos clãs orcs o Sangue de Mannoroth o resultado foi a corrupção dos orcs que se transformaram em sanguinários assassinos. Após atestar a força da horda, Gul’dan abriu um portal entre Draenor e Azeroth, o mundo dos Humanos, iniciando uma guerra lendária contra as raças de Azeroth.
 
 Após algumas derrotas, os humanos fugiram para norte do continente, para o reino de Lordaeron, onde se juntaram ao rei Terenas Menethil de Lordaeron, aos anões de Khaz Modan e aos elfos de Quel’Thalas para combater a Horda. Sua tarefa é: dado um campo de batalha representado por uma matriz 10x10, determinar quem será o grande vencedor da batalha através da contabilização do poder das tropas. A metade da matriz à esquerda contém as tropas dos Orcs e a metade da direita a dos Humanos.
@@ -17,3 +20,5 @@ A entrada é composta por uma matriz de caracteres de dimensão 10 X 10, represe
 A saída será composta por uma linha contendo a frase “Loktar Ogar!!!”, caso os orcs possuam a maior quantidade de poder de tropa, pela frase “Pela aliança!”, caso os humanos possuam a maior quantidade de poder. Em caso de empate a saída será: “Batalha lendária!”.
 
 ## Exemplo
+
+![Captura de tela 2024-05-11 180620](https://github.com/gaabrieltorres7/congenial-code-challenges/assets/98062444/6ad1c156-95a4-4c43-87ea-bc7678901430)
