@@ -2,7 +2,8 @@
 
 O quebra-cabeça Torre de Hanói é muito antigo e conhecido, sendo constituído de um conjunto de N discos de tamanhos diferentes e três pinos verticais, nos quais os discos podem ser encaixados.
 
-[img]
+![hanoi](https://github.com/gaabrieltorres7/congenial-code-challenges/assets/98062444/82575a1a-cd8c-43ae-a433-acd61c7c720a)
+
 
 Cada pino pode conter uma pilha com qualquer número de discos, desde que cada disco não seja colocado acima de outro disco de menor tamanho. A configuração inicial consiste de todos os discos no pino 1. O objetivo do quebra-cabeça é mover todos os discos para um dos outros pinos, sempre obedecendo à restrição de não colocar um disco sobre outro menor.
 
