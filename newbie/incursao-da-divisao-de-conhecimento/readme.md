@@ -4,15 +4,11 @@ A Divisão de Reconhecimento se prepara para mais uma incursão além das muralh
 
 Sabendo que o tempo máximo de exposição das tropas nessa missão é de 1 hora e que Levi Ackerman também foi alocado para a incursão, implemente um programa que, dado um número inteiro X de titãs, faça uma alocação de um número inteiro Y de tropas que deverão acompanhar Levi.
 
+### Considere as seguintes estatísticas:
+
 (Levi Ackerman -> Mata 20 titãs por hora)
 
 (Soldado comum -> Mata 5 titãs por hora)
-
-## Tarefa
-
-O seu objetivo consiste em elaborar um código, utilizando-se das condicionais, capaz de informar qual o valor do bilhete a ser pago (ou não) de acordo com a categoria a qual um dado cliente se enquadra.
-
-Considere as seguintes categorias: idoso = gratuidade; estudante (meia-entrada) = 10 reais; casadinha (duas pessoas) = 30 reais; trio (três pessoas) = 40 reais; outros = 20 reais.
 
 ## Entrada
 
