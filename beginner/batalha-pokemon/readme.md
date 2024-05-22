@@ -8,10 +8,11 @@ Entrada: 100 30
 
 Execução:
 
-1º ataque será de 30, e o oponente ficará com 70 pontos de resistência.
-2º ataque será de 29, e o oponente ficará com 41 pontos de resistência.
-3º ataque será de 28, e o oponente ficará com 13 pontos de resistência.
-4º ataque será de 27, e os pontos de resistência do oponente chegarão ao fim.
+- 1º ataque será de 30, e o oponente ficará com 70 pontos de resistência.
+- 2º ataque será de 29, e o oponente ficará com 41 pontos de resistência.
+- 3º ataque será de 28, e o oponente ficará com 13 pontos de resistência.
+- 4º ataque será de 27, e os pontos de resistência do oponente chegarão ao fim.
+
 Então você precisaria disparar 4 ataques para desmaiar o oponente.
 
 ## Entrada
