@@ -12,9 +12,7 @@ Seu programa deve imprimir uma única linha, contendo a sequência correta.
 
 ## Exemplo
 
-| Entrada     | Saída    |
-| ----------- | -------- |
-| 3           |          |
-| 32 44 11    | 11 44 32 |
-| 4           |          |
-| 10 22 31 32 | 11 44 32 |
+| Entrada       | Saída       |
+| ------------- | ----------- |
+| 3 32 44 11    | 11 44 32    |
+| 4 10 22 31 32 | 32 31 22 10 |
